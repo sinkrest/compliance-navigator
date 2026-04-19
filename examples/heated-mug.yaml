@@ -1,0 +1,30 @@
+# Forkable Factory Reference Implementation
+# Product: HeatMug USB-C
+# See: https://github.com/forkable-factory/heated-mug
+
+name: HeatMug USB-C
+type:
+  - heating_device
+  - usb_powered_device
+  - food_contact_product
+  - consumer_electronics
+market:
+  - EU
+  - US
+voltage_dc: 20  # USB PD max
+power_watts: 20
+wireless: false
+battery: false
+materials:
+  - stainless_steel
+  - silicone
+  - abs_plastic
+  - copper
+  - ceramic
+food_contact: indirect  # silicone pad touches mug exterior, not food
+intended_use: consumer
+description: >
+  USB-C powered heated mug base with PD negotiation.
+  Maintains beverage temperature at 55-65°C.
+  Stainless steel mug with silicone anti-slip base,
+  ABS housing, PTC ceramic heating element.

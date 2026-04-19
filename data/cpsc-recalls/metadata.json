@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-04-12T22:45:52.663726",
+  "total_recalls": 9742,
+  "categories": {
+    "battery": 228,
+    "children": 1335,
+    "electrical": 300,
+    "electronics": 795,
+    "furniture": 559,
+    "heating_device": 443,
+    "kitchen_appliance": 1326,
+    "lighting": 2820,
+    "other": 1046,
+    "outdoor": 402,
+    "personal_care": 39,
+    "toy": 449
+  },
+  "source": "https://www.saferproducts.gov/RestWebServices/Recall",
+  "licence": "US Government \u2013 Public Domain"
+}
