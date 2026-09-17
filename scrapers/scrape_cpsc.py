@@ -27,7 +27,7 @@ import requests
 
 API_URL = "https://www.saferproducts.gov/RestWebServices/Recall"
 HEADERS = {
-    "User-Agent": "ComplianceNavigator/0.1 (https://github.com/forkable-factory/compliance-navigator)",
+    "User-Agent": "ComplianceNavigator/0.1 (https://github.com/sinkrest/compliance-navigator)",
     "Accept": "application/json",
 }
 

@@ -14,7 +14,7 @@ compliance-nav check --file examples/heated-mug.yaml
 
 ```bash
 # Clone
-git clone https://github.com/forkable-factory/compliance-navigator.git
+git clone https://github.com/sinkrest/compliance-navigator.git
 cd compliance-navigator
 
 # Install
@@ -138,6 +138,6 @@ Data: Public domain (sourced from government publications)
 
 ## Part of Forkable Factory
 
-This tool is part of the [Forkable Factory](https://github.com/forkable-factory) project -- an experiment in developing physical products the way software is developed: in repos, with agents, open by default.
+This tool is part of the [Forkable Factory](https://github.com/sinkrest) project -- an experiment in developing physical products the way software is developed: in repos, with agents, open by default.
 
 Read the thesis: [The Forkable Factory](https://romanmartins.com/blog/the-forkable-factory)

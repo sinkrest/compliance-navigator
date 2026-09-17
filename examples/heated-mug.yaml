@@ -1,6 +1,6 @@
 # Forkable Factory Reference Implementation
 # Product: HeatMug USB-C
-# See: https://github.com/forkable-factory/heated-mug
+# See: https://github.com/sinkrest/reference-impl
 
 name: HeatMug USB-C
 type:
